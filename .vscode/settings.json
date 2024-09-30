@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\My Documents\\salin\\JAVA\\TestProject\\src\\advanceJava\\labAssignment5\\mysql-connector-j-9.0.0\\mysql-connector-j-9.0.0.jar",
+        "e:\\My Documents\\salin\\BCA\\BCA-6rhSem-2024-5-26\\Project II\\SudokuSolver-master\\jar\\jBCrypt-0.4.1.jar",
+        "/media/chaaku/Work/SudokuSolver/jar/jBCrypt-0.4.1.jar",
+        "/media/chaaku/Work/SudokuSolver/jar/mysql-connector-j-8.0.33.jar"
+    ]
+}
